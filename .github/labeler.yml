@@ -1,0 +1,5 @@
+contributeurs:
+- contributeurs/*
+
+integration_continue:
+- .github/**/*.*
